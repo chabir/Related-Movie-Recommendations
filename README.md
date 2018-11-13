@@ -7,8 +7,6 @@ Here, the goal is to build a model / code that orders movies based on their "rel
 regarding the “relatedness” of movies and after exploring the dataset, we will show different
 approaches to propose an ordered list of movies given a particular one.
 
-Coming from the field of supervised learning, the recommendation system / discovery search is quite new and quite substile, I had to make some research in order to understand the complexity of the recommendation engine field and to understand how the subjectivity of the movies relatedness can be measured.
-
 To say that two movies are related can be interpreted in many ways: the similarity in the titles, the
 description, the genres, the year range, the popularity or the ratings relative to one-another is one way
 to define the relatedness between movies.
