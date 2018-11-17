@@ -1,6 +1,6 @@
 # Related-Movie-Recommendations
 
-The goal of this challenge is to find related movies using the Movielens 20M dataset.
+The goal of this project is to find related movies using the Movielens 20M dataset.
 
 Here, the goal is to build a model / code that orders movies based on their "relatedness" using the MovieLens
 20M dataset (https://grouplens.org/datasets/movielens/20m/) which contains over 20 thousands movie titles. We will frame the problem
